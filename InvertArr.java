@@ -1,5 +1,5 @@
 
-public class Main {
+public class InvertArr {
     public static void main(int[] data)  {
             for (int k = 0; k < data.length /2 ; k++)
             {
